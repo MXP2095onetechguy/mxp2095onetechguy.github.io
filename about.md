@@ -1,7 +1,7 @@
 ---
-layout: default
-title: About
-author: Jill
+layout: about
+title: about
+author: jill
 ---
 
 i am male, but i am not going to tell you my name, but you can refer me to:

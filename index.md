@@ -9,6 +9,7 @@ go to my pages
 | -------| ----------|
 | more thing   | [here](https://mxp2095onetechguy.github.io/files-of-files-repository/) |
 | NodeJS browser | [here](https://mxp2095onetechguy.github.io/NodeJS-browser/) |
+| VimX theme based of Vimix | [here](https://mxp2095onetechguy.github.io/VimX/) |
 
 
 

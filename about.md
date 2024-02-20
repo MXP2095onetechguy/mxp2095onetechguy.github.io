@@ -3,7 +3,10 @@ layout: about
 title: about
 ---
 
-i am male, but i am not going to tell you my name, but you can refer me to:
+# Who am I?
+
+I am MXPSQL. 
+I am male, but i am not going to tell you my name, but you can refer me to:
 
 
 * onetechguy
@@ -14,8 +17,10 @@ i am male, but i am not going to tell you my name, but you can refer me to:
 * mxpserver
 * mxp
 * mxpserver 20953 onetechguy
+* MXPSQL Server 20953 Onetechguy
+* MXPSQL
 
-
+I prefer to be called MXPSQL Server 20953 Onetechguy, or MXPSQL for short.
 
 
 [back to home](https://mxp2095onetechguy.github.io/)

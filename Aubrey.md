@@ -1,4 +1,0 @@
-Aubrey
-
-
-![Aubrey](Aubrey.gif)

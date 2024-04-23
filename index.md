@@ -8,6 +8,7 @@ go to my pages
 | about | [here](about.md) |
 | -------| ----------|
 | nothing to see here  | [here](https://google.com) |
-| Portofolio Doxxer Project | [here](https://youtu.be/E8KzZLPT3w8) |
+| Portofolio Doxxer Project | [here](https://bukitsion-y9-ica-portofolio.github.io) |
+| Double Kill | [here](https://youtu.be/E8KzZLPT3w8) |
 
 jekyll powered
